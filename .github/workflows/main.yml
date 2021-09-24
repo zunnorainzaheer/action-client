@@ -8,4 +8,4 @@ jobs:
       - id: foo
         uses: zunnorainzaheer/new-action@v10
         with:
-          username: 'zaheer'
+          username: 'zunnorayn'
