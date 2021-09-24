@@ -6,4 +6,4 @@ jobs:
     name: A job
     steps:
       - id: foo
-        uses: zunnorainzaheer/new-action@v5
+        uses: zunnorainzaheer/new-action@v6
