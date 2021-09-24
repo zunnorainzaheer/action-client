@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - id: foo
-        uses: zunnorainzaheer/new-action@v3
+        uses: zunnorainzaheer/new-action@v4
