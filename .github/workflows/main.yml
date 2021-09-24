@@ -1,0 +1,10 @@
+on: [push]
+
+jobs:
+  print_job:
+    runs-on: ubuntu-latest
+    name: A job
+    steps:
+      - uses: actions/checkout@v2
+      - id: foo
+        uses: zunnorainzaheer/new-action@v1
