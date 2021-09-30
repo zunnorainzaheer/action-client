@@ -6,6 +6,6 @@ jobs:
     name: A job
     steps:
       - id: foo
-        uses: zunnorainzaheer/new-action@v16
+        uses: zunnorainzaheer/new-action@v17
         with:
           username: 'zunnorayn'
